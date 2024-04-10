@@ -1,0 +1,12 @@
+C:\Users\xa5151\Pictures\clean architeture\TailorMe\TailorMe.Domain\bin\Debug\net6.0\TailorMe.Domain.deps.json
+C:\Users\xa5151\Pictures\clean architeture\TailorMe\TailorMe.Domain\bin\Debug\net6.0\TailorMe.Domain.dll
+C:\Users\xa5151\Pictures\clean architeture\TailorMe\TailorMe.Domain\bin\Debug\net6.0\TailorMe.Domain.pdb
+C:\Users\xa5151\Pictures\clean architeture\TailorMe\TailorMe.Domain\obj\Debug\net6.0\TailorMe.Domain.csproj.AssemblyReference.cache
+C:\Users\xa5151\Pictures\clean architeture\TailorMe\TailorMe.Domain\obj\Debug\net6.0\TailorMe.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xa5151\Pictures\clean architeture\TailorMe\TailorMe.Domain\obj\Debug\net6.0\TailorMe.Domain.AssemblyInfoInputs.cache
+C:\Users\xa5151\Pictures\clean architeture\TailorMe\TailorMe.Domain\obj\Debug\net6.0\TailorMe.Domain.AssemblyInfo.cs
+C:\Users\xa5151\Pictures\clean architeture\TailorMe\TailorMe.Domain\obj\Debug\net6.0\TailorMe.Domain.csproj.CoreCompileInputs.cache
+C:\Users\xa5151\Pictures\clean architeture\TailorMe\TailorMe.Domain\obj\Debug\net6.0\TailorMe.Domain.dll
+C:\Users\xa5151\Pictures\clean architeture\TailorMe\TailorMe.Domain\obj\Debug\net6.0\refint\TailorMe.Domain.dll
+C:\Users\xa5151\Pictures\clean architeture\TailorMe\TailorMe.Domain\obj\Debug\net6.0\TailorMe.Domain.pdb
+C:\Users\xa5151\Pictures\clean architeture\TailorMe\TailorMe.Domain\obj\Debug\net6.0\ref\TailorMe.Domain.dll

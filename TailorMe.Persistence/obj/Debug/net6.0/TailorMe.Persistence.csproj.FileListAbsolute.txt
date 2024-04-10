@@ -1,0 +1,17 @@
+C:\Users\xa5151\Pictures\clean architeture\TailorMe\TailorMe.Persistence\bin\Debug\net6.0\TailorMe.Persistence.deps.json
+C:\Users\xa5151\Pictures\clean architeture\TailorMe\TailorMe.Persistence\bin\Debug\net6.0\TailorMe.Persistence.dll
+C:\Users\xa5151\Pictures\clean architeture\TailorMe\TailorMe.Persistence\bin\Debug\net6.0\TailorMe.Persistence.pdb
+C:\Users\xa5151\Pictures\clean architeture\TailorMe\TailorMe.Persistence\bin\Debug\net6.0\TailorMe.Domain.dll
+C:\Users\xa5151\Pictures\clean architeture\TailorMe\TailorMe.Persistence\bin\Debug\net6.0\TailorMe.Domain.pdb
+C:\Users\xa5151\Pictures\clean architeture\TailorMe\TailorMe.Persistence\obj\Debug\net6.0\TailorMe.Persistence.csproj.AssemblyReference.cache
+C:\Users\xa5151\Pictures\clean architeture\TailorMe\TailorMe.Persistence\obj\Debug\net6.0\TailorMe.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xa5151\Pictures\clean architeture\TailorMe\TailorMe.Persistence\obj\Debug\net6.0\TailorMe.Persistence.AssemblyInfoInputs.cache
+C:\Users\xa5151\Pictures\clean architeture\TailorMe\TailorMe.Persistence\obj\Debug\net6.0\TailorMe.Persistence.AssemblyInfo.cs
+C:\Users\xa5151\Pictures\clean architeture\TailorMe\TailorMe.Persistence\obj\Debug\net6.0\TailorMe.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\xa5151\Pictures\clean architeture\TailorMe\TailorMe.Persistence\obj\Debug\net6.0\TailorMe.Persistence.csproj.CopyComplete
+C:\Users\xa5151\Pictures\clean architeture\TailorMe\TailorMe.Persistence\obj\Debug\net6.0\TailorMe.Persistence.dll
+C:\Users\xa5151\Pictures\clean architeture\TailorMe\TailorMe.Persistence\obj\Debug\net6.0\refint\TailorMe.Persistence.dll
+C:\Users\xa5151\Pictures\clean architeture\TailorMe\TailorMe.Persistence\obj\Debug\net6.0\TailorMe.Persistence.pdb
+C:\Users\xa5151\Pictures\clean architeture\TailorMe\TailorMe.Persistence\obj\Debug\net6.0\ref\TailorMe.Persistence.dll
+C:\Users\xa5151\Pictures\clean architeture\TailorMe\TailorMe.Persistence\bin\Debug\net6.0\TailorMe.Application.dll
+C:\Users\xa5151\Pictures\clean architeture\TailorMe\TailorMe.Persistence\bin\Debug\net6.0\TailorMe.Application.pdb

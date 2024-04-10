@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "2oNTe/iojanQxPFo2hLRO0ChCeUeW7EDXIrnzHqa6G8KptjXh6xRlo+hRu64aEoBmFbkCBFYDTbSwYObK60MVg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\xa5151\\Pictures\\clean architeture\\TailorMe\\TailorMe.Infrastructure\\TailorMe.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xa5151\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\xa5151\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\xa5151\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}

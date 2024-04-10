@@ -1,0 +1,15 @@
+C:\Users\xa5151\Pictures\clean architeture\TailorMe\TailorMe.Application\bin\Debug\net6.0\TailorMe.Application.deps.json
+C:\Users\xa5151\Pictures\clean architeture\TailorMe\TailorMe.Application\bin\Debug\net6.0\TailorMe.Application.dll
+C:\Users\xa5151\Pictures\clean architeture\TailorMe\TailorMe.Application\bin\Debug\net6.0\TailorMe.Application.pdb
+C:\Users\xa5151\Pictures\clean architeture\TailorMe\TailorMe.Application\bin\Debug\net6.0\TailorMe.Domain.dll
+C:\Users\xa5151\Pictures\clean architeture\TailorMe\TailorMe.Application\bin\Debug\net6.0\TailorMe.Domain.pdb
+C:\Users\xa5151\Pictures\clean architeture\TailorMe\TailorMe.Application\obj\Debug\net6.0\TailorMe.Application.csproj.AssemblyReference.cache
+C:\Users\xa5151\Pictures\clean architeture\TailorMe\TailorMe.Application\obj\Debug\net6.0\TailorMe.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xa5151\Pictures\clean architeture\TailorMe\TailorMe.Application\obj\Debug\net6.0\TailorMe.Application.AssemblyInfoInputs.cache
+C:\Users\xa5151\Pictures\clean architeture\TailorMe\TailorMe.Application\obj\Debug\net6.0\TailorMe.Application.AssemblyInfo.cs
+C:\Users\xa5151\Pictures\clean architeture\TailorMe\TailorMe.Application\obj\Debug\net6.0\TailorMe.Application.csproj.CoreCompileInputs.cache
+C:\Users\xa5151\Pictures\clean architeture\TailorMe\TailorMe.Application\obj\Debug\net6.0\TailorMe.Application.csproj.CopyComplete
+C:\Users\xa5151\Pictures\clean architeture\TailorMe\TailorMe.Application\obj\Debug\net6.0\TailorMe.Application.dll
+C:\Users\xa5151\Pictures\clean architeture\TailorMe\TailorMe.Application\obj\Debug\net6.0\refint\TailorMe.Application.dll
+C:\Users\xa5151\Pictures\clean architeture\TailorMe\TailorMe.Application\obj\Debug\net6.0\TailorMe.Application.pdb
+C:\Users\xa5151\Pictures\clean architeture\TailorMe\TailorMe.Application\obj\Debug\net6.0\ref\TailorMe.Application.dll

@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="13.0.1" />
+    <PackageReference Include="MediatR" Version="12.2.0" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="8.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TailorMe.Domain\TailorMe.Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Features\Addresses\Handlers\Command\" />
+    <Folder Include="Features\Addresses\Requests\Command\" />
+    <Folder Include="Features\BottomMeasurements\Handlers\Commands\" />
+    <Folder Include="Features\BottomMeasurements\Requests\Commands\" />
+    <Folder Include="Features\Orders\Handlers\Command\" />
+    <Folder Include="Features\Orders\Requests\Command\" />
+  </ItemGroup>
+
+</Project>

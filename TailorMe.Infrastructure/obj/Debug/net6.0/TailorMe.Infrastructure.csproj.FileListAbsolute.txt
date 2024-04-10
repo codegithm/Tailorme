@@ -1,0 +1,12 @@
+C:\Users\xa5151\Pictures\clean architeture\TailorMe\TailorMe.Infrastructure\bin\Debug\net6.0\TailorMe.Infrastructure.deps.json
+C:\Users\xa5151\Pictures\clean architeture\TailorMe\TailorMe.Infrastructure\bin\Debug\net6.0\TailorMe.Infrastructure.dll
+C:\Users\xa5151\Pictures\clean architeture\TailorMe\TailorMe.Infrastructure\bin\Debug\net6.0\TailorMe.Infrastructure.pdb
+C:\Users\xa5151\Pictures\clean architeture\TailorMe\TailorMe.Infrastructure\obj\Debug\net6.0\TailorMe.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\xa5151\Pictures\clean architeture\TailorMe\TailorMe.Infrastructure\obj\Debug\net6.0\TailorMe.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xa5151\Pictures\clean architeture\TailorMe\TailorMe.Infrastructure\obj\Debug\net6.0\TailorMe.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\xa5151\Pictures\clean architeture\TailorMe\TailorMe.Infrastructure\obj\Debug\net6.0\TailorMe.Infrastructure.AssemblyInfo.cs
+C:\Users\xa5151\Pictures\clean architeture\TailorMe\TailorMe.Infrastructure\obj\Debug\net6.0\TailorMe.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\xa5151\Pictures\clean architeture\TailorMe\TailorMe.Infrastructure\obj\Debug\net6.0\TailorMe.Infrastructure.dll
+C:\Users\xa5151\Pictures\clean architeture\TailorMe\TailorMe.Infrastructure\obj\Debug\net6.0\refint\TailorMe.Infrastructure.dll
+C:\Users\xa5151\Pictures\clean architeture\TailorMe\TailorMe.Infrastructure\obj\Debug\net6.0\TailorMe.Infrastructure.pdb
+C:\Users\xa5151\Pictures\clean architeture\TailorMe\TailorMe.Infrastructure\obj\Debug\net6.0\ref\TailorMe.Infrastructure.dll
